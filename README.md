@@ -63,11 +63,12 @@ CREATE TABLE users (
 Run command npm start to run the API server & test it via Postman.
 
 **8. End points explained**
-  
+ ```
   GET     -  /user gives all users.
   POST    -  /user create new users.
   PUT     -  /user update existing users by id.
   Delete  -  /user delete user by id.
+````
   
   ```Look into code to understand JSON request```
 
