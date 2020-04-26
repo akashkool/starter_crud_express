@@ -2,6 +2,8 @@
 
 Start a CRUD API quickly using Node, Express & Postgres.
 
+This API goes with the frontend <a name="starter_crud_react" href="https://github.com/akashkool/starter_crud_react">starter_crud_react</a> frontend.
+
 Serves four requests (get, post, put, delete) from one page with a separate function for each.
 
 **Dependencies**
